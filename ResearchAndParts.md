@@ -5,7 +5,7 @@
 ##### https://www.popularmechanics.com/flight/how-to/g631/4-amazing-diy-planes-and-how-to-build-your-own/
 
 ## Electronics
-#### <a href="https://hobbyking.com/en_us/turnigy-rotomax-150cc-size-brushless-outrunner-motor.html">Motor</a>
+#### <a href="https://hobbyking.com/en_us/turnigy-rotomax-150cc-size-brushless-outrunner-motor.html">Motor</a> or https://openppg.com/shop/paramotors/openppg-sp140/
 #### <a href="https://hobbyking.com/en_us/turnigy-rapid-8000mah-2s2p-140c-hardcase-lipo-battery-pack-roar-approved.html">Battery</a>
 #### <a href="http://www.mgm-controllers.com/airplanes/speed-controllers-escs-2/tmm-25063-3-for-airplanes-x2-series.html">ESC</a>
 #### <a href="https://hobbyking.com/en_us/isdt-q8-lcd-500w-20a-1-8s-dc-smart-charger.html">Charger</a>
