@@ -8,18 +8,19 @@
 #### Ultra-pup (Needs 30kW Single Seat, 50kW Dual Seat): https://buildandfly.shop/product/preceptor-n3-pup/
 #### J-3 Kitten (Needs 21kW): https://buildandfly.shop/product/j3-kitten/
 
-## Electronics
-#### <a href="openppg.com">Motor (25kW)</a>
-#### <a href="https://hobbyking.com/en_us/turnigy-rapid-8000mah-2s2p-140c-hardcase-lipo-battery-pack-roar-approved.html">Battery</a>
-#### <a href="http://www.mgm-controllers.com/airplanes/speed-controllers-escs-2/tmm-25063-3-for-airplanes-x2-series.html">ESC</a>
-#### <a href="https://hobbyking.com/en_us/isdt-q8-lcd-500w-20a-1-8s-dc-smart-charger.html">Charger</a>
-#### <a href="https://www.getfpv.com/lumenier-paraguard-safe-parallel-charging-board-xt-60-4-port.html">Parallel Charge Adapter</a>
+## Avionics (bavionics.co.uk)
+- G3X (£3660 + £66 Install Kit)
+- G3X Standard LRU (£1320 + £110.40 Install Kits)
+- G5 (£1440 + 96 Install Kit)
+- GDL 50R (£744)
+- GMA 245 (£1332)
+- GTR 20 (£1044)
+- GTX 35R (£2136)
+- GEA 24 (£600 + £144 Install Kit)
+- GAD 27 (£480 + £108 Install Kit)
+- Comant CI-105 (£165.90)
+- Comant CI-121 (£186.66)
 #### Possible Servos:
-##### https://hobbyking.com/en_us/corona-ds558hv-digital-metal-gear-servo-14kg-58g-0-18-sec.html
-##### https://hobbyking.com/en_us/hobbykingtm-coreless-digital-hv-mg-bb-servo-11-5kg-0-17sec-66-4g.html
-##### https://hobbyking.com/en_us/corona-ds558hv-digital-metal-gear-servo-14kg-58g-0-18-sec.html
-##### https://hobbyking.com/en_us/turnigytm-mg959-v2-alloy-dg-mg-servo-30kg-0-15sec-78g.html
-##### https://hobbyking.com/en_us/corona-digital-servo-ds559hv.html
 
 ## Body
 #### <a href="https://i-want-fly.com/motor/brushless-motors/electric-propeller-aircraft">Propeller</a>
